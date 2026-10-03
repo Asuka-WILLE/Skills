@@ -1,0 +1,4 @@
+{
+  "skill_name": "layered-verification-and-reporting",
+  "evals": [{"id": 1, "prompt": "CI 只跑了 lint，生产数据库访问不到。请判断新迁移能否发布，并写验收报告。", "expected_output": "区分已完成静态验证与未完成的构建、集成和生产验证，明确风险。", "files": []}]
+}

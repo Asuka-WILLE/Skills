@@ -1,0 +1,4 @@
+{
+  "skill_name": "safe-change-delivery",
+  "evals": [{"id": 1, "prompt": "把我的支付修复推到 release，但工作区还有同事留下的日志和另外一个未完成功能。", "expected_output": "核实基线，隔离无关改动，最小提交并在推送后确认目标远端。", "files": []}]
+}

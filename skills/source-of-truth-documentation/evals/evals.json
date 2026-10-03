@@ -1,0 +1,4 @@
+{
+  "skill_name": "source-of-truth-documentation",
+  "evals": [{"id": 1, "prompt": "代码刚改了鉴权流程，但旧 README 和第三方手册说法冲突。请更新技术文档。", "expected_output": "以当前实现/配置为事实源，说明设计原因、限制和无法确认的信息。", "files": []}]
+}

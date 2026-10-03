@@ -1,0 +1,4 @@
+{
+  "skill_name": "regression-safe-feature-development",
+  "evals": [{"id": 1, "prompt": "给现有用户系统增加批量导入，但单个用户的创建、校验和审计日志都不能受影响。", "expected_output": "先给出行为基线、影响图、兼容设计和新旧路径的回归矩阵。", "files": []}]
+}

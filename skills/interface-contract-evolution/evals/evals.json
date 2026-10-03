@@ -1,0 +1,4 @@
+{
+  "skill_name": "interface-contract-evolution",
+  "evals": [{"id": 1, "prompt": "把订单 API 的 amount 改成高精度 decimal，并增加税额字段；Web、移动端、报表和 CSV 导出都在用它。", "expected_output": "清点全链路消费者，定义单位/精度/缺失语义与兼容发布，验证新旧组合。", "files": []}]
+}

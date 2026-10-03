@@ -1,0 +1,4 @@
+{
+  "skill_name": "resilient-state-machine-design",
+  "evals": [{"id": 1, "prompt": "异步任务超时后页面显示失败，但后台任务仍继续运行；恢复网络后又会重复提交。请重设计状态机。", "expected_output": "定义状态、超时可达的取消动作、幂等性和受条件约束的恢复。", "files": []}]
+}

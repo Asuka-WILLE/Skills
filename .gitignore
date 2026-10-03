@@ -1,0 +1,15 @@
+# Python 缓存与打包产物
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 构建输出
+obj/
+bin/
+
+# 运行时/编辑器产物
+.setup.log
+.DS_Store
+Thumbs.db
+desktop.ini

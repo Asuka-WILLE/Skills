@@ -1,0 +1,4 @@
+{
+  "skill_name": "evidence-driven-debugging",
+  "evals": [{"id": 1, "prompt": "服务偶尔返回成功，但下游数据库没有数据。请不要直接改重试次数，先找根因。", "expected_output": "构造最小复现和可证伪假设，沿请求、状态、外部调用和持久化追踪因果链。", "files": []}]
+}

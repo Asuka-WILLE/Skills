@@ -1,0 +1,4 @@
+{
+  "skill_name": "artifact-and-dependency-hygiene",
+  "evals": [{"id": 1, "prompt": "仓库膨胀而且 CI 的依赖导入失败。哪些文件能清理，依赖问题怎么定位？", "expected_output": "先分类 Git 状态、生成物和依赖证据，再提出最小清理与复现首个导入错误的方案。", "files": []}]
+}

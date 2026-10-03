@@ -1,0 +1,4 @@
+{
+  "skill_name": "timing-and-concurrency-precision",
+  "evals": [{"id": 1, "prompt": "两个请求共用一个队列，产品要求它们同时完成。现在代码在两次发送之间 sleep 100ms，这样对吗？", "expected_output": "解释可保证的时间语义，分析队列约束，用确认/测量替代任意延时。", "files": []}]
+}
